@@ -1,5 +1,5 @@
 {
-  "manifest_version": 4,
+  "manifest_version": 3,
   "name": "100 School OS - New Tab",
   "version": "2.3",
   "description": "Minimal new tab \"100 School OS\" with sidebar icons linking to external resources.",
